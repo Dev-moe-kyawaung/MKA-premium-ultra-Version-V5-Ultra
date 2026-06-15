@@ -46,4 +46,4 @@ npm run export
    Save
 # Push to main
     Your site will be live at:
-    https://Dev-Moe-kyawaung.github.io/MKA-premiun-ultra-V5
+    https://Dev-Moe-kyawaung.github.io/moekyawaung-portfolio-v5-ultra-pro
