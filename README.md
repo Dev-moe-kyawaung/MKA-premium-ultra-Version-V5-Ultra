@@ -32,3 +32,18 @@
 ```bash
 npm install
 npm run dev
+```
+## Open http://localhost:3000 to preview.
+# 📦 Build for GitHub Pages
+```bash
+npm run build
+npm run export
+```
+# 🌐 Deploy to GitHub Pages
+# Open repository on GitHub
+# Go to Settings → Pages
+# Under Build and deployment, set Source to GitHub Actions
+   Save
+# Push to main
+    Your site will be live at:
+    https://Dev-Moe-kyawaung.github.io/MKA-premiun-ultra-V5
